@@ -19,7 +19,7 @@
 	<scm>
 		<url>https://github.com/seoj/jsmoothie</url>
 		<connection>scm:git:https://github.com/seoj/jsmoothie.git</connection>
-	  <tag>smoothie-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<!-- List of developers -->
 	<developers>
@@ -32,7 +32,7 @@
 	<!-- Maven GAV -->
 	<groupId>com.github.seoj</groupId>
 	<artifactId>smoothie</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<!-- Specifies the snapshot and staging/release URI -->
 	<!-- TODO may not be needed if using nexus release plugin -->
